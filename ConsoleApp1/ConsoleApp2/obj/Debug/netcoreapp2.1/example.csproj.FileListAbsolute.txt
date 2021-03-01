@@ -1,0 +1,11 @@
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp2.1\example.deps.json
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp2.1\example.runtimeconfig.json
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp2.1\example.runtimeconfig.dev.json
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp2.1\example.dll
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp2.1\example.pdb
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.1\example.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.1\example.AssemblyInfoInputs.cache
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.1\example.AssemblyInfo.cs
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.1\example.dll
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.1\example.pdb
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.1\example.csprojAssemblyReference.cache

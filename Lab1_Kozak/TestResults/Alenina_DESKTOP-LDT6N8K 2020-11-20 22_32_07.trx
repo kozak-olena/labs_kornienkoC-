@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0fe5d63f-8063-4001-b800-eca507eb26f9" name="Alenina@DESKTOP-LDT6N8K 2020-11-20 22:32:07" runUser="DESKTOP-LDT6N8K\Alenina" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="3d99ac63-6e2d-4f8e-950a-6d5d38aafd38">
+    <Description>These are default test settings for a local test run.</Description>
+    <Execution hostProcessPlatform="MSIL">
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Alenina_DESKTOP-LDT6N8K 2020-11-20 22_32_07" />
+    <Properties>
+      <Property name="TestSettingsUIType" value="LoadTest" />
+    </Properties>
+  </TestSettings>
+  <Times creation="2020-11-20T22:32:07.5788356+02:00" queuing="2020-11-20T22:32:08.0765116+02:00" start="2020-11-20T22:32:08.1473228+02:00" finish="2020-11-20T22:32:19.2391528+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <WebTest name="WebTest1" storage="c:\users\alenina\source\repos\lab1_kozak\webandloadtestproject_lab1\webtest1.webtest" id="b0b7199c-a9f6-4870-868e-4ec57ca799b9" persistedWebTest="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pg0KPFdlYlRlc3QgTmFtZT0iV2ViVGVzdDEiIElkPSJiMGI3MTk5Yy1hOWY2LTQ4NzAtODY4ZS00ZWM1N2NhNzk5YjkiIE93bmVyPSIiIFByaW9yaXR5PSIyMTQ3NDgzNjQ3IiBFbmFibGVkPSJUcnVlIiBDc3NQcm9qZWN0U3RydWN0dXJlPSIiIENzc0l0ZXJhdGlvbj0iIiBUaW1lb3V0PSIwIiBXb3JrSXRlbUlkcz0iIiB4bWxucz0iaHR0cDovL21pY3Jvc29mdC5jb20vc2NoZW1hcy9WaXN1YWxTdHVkaW8vVGVhbVRlc3QvMjAxMCIgRGVzY3JpcHRpb249IiIgQ3JlZGVudGlhbFVzZXJOYW1lPSIiIENyZWRlbnRpYWxQYXNzd29yZD0iIiBQcmVBdXRoZW50aWNhdGU9IlRydWUiIFByb3h5PSJkZWZhdWx0IiBTdG9wT25FcnJvcj0iRmFsc2UiIFJlY29yZGVkUmVzdWx0RmlsZT0iIiBSZXN1bHRzTG9jYWxlPSIiPg0KICA8SXRlbXM+DQogICAgPFJlcXVlc3QgTWV0aG9kPSJQT1NUIiBHdWlkPSI3NTAyNTk4OS1jM2EzLTQwMmQtYjIwMC00NjE3NWZhOGI4YjgiIFZlcnNpb249IjEuMSIgVXJsPSJodHRwOi8vbG9jYWxob3N0OjU4MzQ2L1dlYlNlcnZpY2UxLmFzbXgiIFRoaW5rVGltZT0iMCIgVGltZW91dD0iMzAwIiBQYXJzZURlcGVuZGVudFJlcXVlc3RzPSJUcnVlIiBGb2xsb3dSZWRpcmVjdHM9IlRydWUiIFJlY29yZFJlc3VsdD0iVHJ1ZSIgQ2FjaGU9IkZhbHNlIiBSZXNwb25zZVRpbWVHb2FsPSIwIiBFbmNvZGluZz0idXRmLTgiIEV4cGVjdGVkSHR0cFN0YXR1c0NvZGU9IjAiIEV4cGVjdGVkUmVzcG9uc2VVcmw9IiIgUmVwb3J0aW5nTmFtZT0iIiBJZ25vcmVIdHRwU3RhdHVzQ29kZT0iRmFsc2UiPg0KICAgICAgPEhlYWRlcnM+DQogICAgICAgIDxIZWFkZXIgTmFtZT0iU09BUEFjdGlvbiIgVmFsdWU9Imh0dHA6Ly90ZW1wdXJpLm9yZy9IZWxsb1dvcmxkIiAvPg0KICAgICAgPC9IZWFkZXJzPg0KICAgICAgPFF1ZXJ5U3RyaW5nUGFyYW1ldGVycz4NCiAgICAgICAgPFF1ZXJ5U3RyaW5nUGFyYW1ldGVyIE5hbWU9Im9wIiBWYWx1ZT0iSGVsbG9Xb3JsZCIgUmVjb3JkZWRWYWx1ZT0iIiBDb3JyZWxhdGlvbkJpbmRpbmc9IiIgVXJsRW5jb2RlPSJUcnVlIiBVc2VUb0dyb3VwUmVzdWx0cz0iRmFsc2UiIC8+DQogICAgICA8L1F1ZXJ5U3RyaW5nUGFyYW1ldGVycz4NCiAgICAgIDxTdHJpbmdIdHRwQm9keSBDb250ZW50VHlwZT0idGV4dC94bWwiIEluc2VydEJ5dGVPcmRlck1hcms9IkZhbHNlIj5QQUEvQUhnQWJRQnNBQ0FBZGdCbEFISUFjd0JwQUc4QWJnQTlBQ0lBTVFBdUFEQUFJZ0FnQUdVQWJnQmpBRzhBWkFCcEFHNEFad0E5QUNJQWRRQjBBR1lBTFFBNEFDSUFQd0ErQUEwQUNnQThBSE1BYndCaEFIQUFPZ0JGQUc0QWRnQmxBR3dBYndCd0FHVUFJQUI0QUcwQWJBQnVBSE1BT2dCNEFITUFhUUE5QUNJQWFBQjBBSFFBY0FBNkFDOEFMd0IzQUhjQWR3QXVBSGNBTXdBdUFHOEFjZ0JuQUM4QU1nQXdBREFBTVFBdkFGZ0FUUUJNQUZNQVl3Qm9BR1VBYlFCaEFDMEFhUUJ1QUhNQWRBQmhBRzRBWXdCbEFDSUFJQUI0QUcwQWJBQnVBSE1BT2dCNEFITUFaQUE5QUNJQWFBQjBBSFFBY0FBNkFDOEFMd0IzQUhjQWR3QXVBSGNBTXdBdUFHOEFjZ0JuQUM4QU1nQXdBREFBTVFBdkFGZ0FUUUJNQUZNQVl3Qm9BR1VBYlFCaEFDSUFJQUI0QUcwQWJBQnVBSE1BT2dCekFHOEFZUUJ3QUQwQUlnQm9BSFFBZEFCd0FEb0FMd0F2QUhNQVl3Qm9BR1VBYlFCaEFITUFMZ0I0QUcwQWJBQnpBRzhBWVFCd0FDNEFid0J5QUdjQUx3QnpBRzhBWVFCd0FDOEFaUUJ1QUhZQVpRQnNBRzhBY0FCbEFDOEFJZ0ErQUEwQUNnQWdBQ0FBUEFCekFHOEFZUUJ3QURvQVFnQnZBR1FBZVFBK0FBMEFDZ0FnQUNBQUlBQWdBRHdBU0FCbEFHd0FiQUJ2QUZjQWJ3QnlBR3dBWkFBZ0FIZ0FiUUJzQUc0QWN3QTlBQ0lBYUFCMEFIUUFjQUE2QUM4QUx3QjBBR1VBYlFCd0FIVUFjZ0JwQUM0QWJ3QnlBR2NBTHdBaUFENEFEUUFLQUNBQUlBQWdBQ0FBSUFBZ0FEd0Fjd0IwQUhJQVBnQlBBR3dBWlFCdUFHRUFJUUE4QUM4QWN3QjBBSElBUGdBTkFBb0FJQUFnQUNBQUlBQThBQzhBU0FCbEFHd0FiQUJ2QUZjQWJ3QnlBR3dBWkFBK0FBMEFDZ0FnQUNBQVBBQXZBSE1BYndCaEFIQUFPZ0JDQUc4QVpBQjVBRDRBRFFBS0FEd0FMd0J6QUc4QVlRQndBRG9BUlFCdUFIWUFaUUJzQUc4QWNBQmxBRDRBPC9TdHJpbmdIdHRwQm9keT4NCiAgICA8L1JlcXVlc3Q+DQogIDwvSXRlbXM+DQo8L1dlYlRlc3Q+">
+      <Execution id="66cc5205-b325-4f94-ad6f-645c2afacbb7" />
+    </WebTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry isTransparent="false" testId="b0b7199c-a9f6-4870-868e-4ec57ca799b9" executionId="66cc5205-b325-4f94-ad6f-645c2afacbb7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <WebTestResult executionId="66cc5205-b325-4f94-ad6f-645c2afacbb7" testId="b0b7199c-a9f6-4870-868e-4ec57ca799b9" testName="WebTest1" computerName="DESKTOP-LDT6N8K" duration="00:00:00.1623868" startTime="2020-11-20T22:32:08.3323816+02:00" endTime="2020-11-20T22:32:19.1812274+02:00" testType="4e7599fa-5ecb-43e9-a887-cd63cf72d207" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="66cc5205-b325-4f94-ad6f-645c2afacbb7">
+      <ResultFiles>
+        <ResultFile path="WebTest1.webtestResult" />
+      </ResultFiles>
+      <TestSettings name="Local" id="3d99ac63-6e2d-4f8e-950a-6d5d38aafd38">
+        <Description>These are default test settings for a local test run.</Description>
+        <Execution hostProcessPlatform="MSIL">
+          <TestTypeSpecific>
+            <WebTestRunConfiguration testTypeId="4e7599fa-5ecb-43e9-a887-cd63cf72d207">
+              <Browser name="Internet Explorer 9.0" MaxConnections="6">
+                <Headers>
+                  <Header name="User-Agent" value="Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)" />
+                  <Header name="Accept" value="*/*" />
+                  <Header name="Accept-Language" value="{{$IEAcceptLanguage}}" />
+                  <Header name="Accept-Encoding" value="GZIP" />
+                </Headers>
+              </Browser>
+            </WebTestRunConfiguration>
+          </TestTypeSpecific>
+          <AgentRule name="Execution Agents">
+          </AgentRule>
+        </Execution>
+        <Deployment runDeploymentRoot="Alenina_DESKTOP-LDT6N8K 2020-11-20 22_32_07" />
+        <Properties>
+          <Property name="TestSettingsUIType" value="LoadTest" />
+        </Properties>
+      </TestSettings>
+      <WebTestResultFilePath>Alenina_DESKTOP-LDT6N8K 2020-11-20 22_32_07\In\66cc5205-b325-4f94-ad6f-645c2afacbb7\WebTest1.webtestResult</WebTestResultFilePath>
+    </WebTestResult>
+  </Results>
+</TestRun>

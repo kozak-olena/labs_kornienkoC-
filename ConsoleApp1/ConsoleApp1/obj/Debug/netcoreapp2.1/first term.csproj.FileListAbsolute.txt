@@ -1,0 +1,11 @@
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\first term.csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\first term.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\first term.AssemblyInfoInputs.cache
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\first term.AssemblyInfo.cs
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\first term.deps.json
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\first term.runtimeconfig.json
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\first term.runtimeconfig.dev.json
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\first term.dll
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\first term.pdb
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\first term.dll
+C:\Users\Alenina\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\first term.pdb

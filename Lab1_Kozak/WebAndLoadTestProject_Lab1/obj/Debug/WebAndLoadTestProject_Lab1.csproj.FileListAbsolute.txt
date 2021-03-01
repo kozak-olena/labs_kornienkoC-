@@ -1,0 +1,9 @@
+c:\users\alenina\source\repos\Lab1_Kozak\WebAndLoadTestProject_Lab1\bin\Debug\WebTest1.webtest
+c:\users\alenina\source\repos\Lab1_Kozak\WebAndLoadTestProject_Lab1\bin\Debug\WebAndLoadTestProject_Lab1.dll
+c:\users\alenina\source\repos\Lab1_Kozak\WebAndLoadTestProject_Lab1\bin\Debug\WebAndLoadTestProject_Lab1.pdb
+c:\users\alenina\source\repos\Lab1_Kozak\WebAndLoadTestProject_Lab1\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+c:\users\alenina\source\repos\Lab1_Kozak\WebAndLoadTestProject_Lab1\obj\Debug\WebAndLoadTestProject_Lab1.csprojAssemblyReference.cache
+c:\users\alenina\source\repos\Lab1_Kozak\WebAndLoadTestProject_Lab1\obj\Debug\WebAndLoadTestProject_Lab1.csproj.CoreCompileInputs.cache
+c:\users\alenina\source\repos\Lab1_Kozak\WebAndLoadTestProject_Lab1\obj\Debug\WebAndLoadTestProject_Lab1.csproj.CopyComplete
+c:\users\alenina\source\repos\Lab1_Kozak\WebAndLoadTestProject_Lab1\obj\Debug\WebAndLoadTestProject_Lab1.dll
+c:\users\alenina\source\repos\Lab1_Kozak\WebAndLoadTestProject_Lab1\obj\Debug\WebAndLoadTestProject_Lab1.pdb

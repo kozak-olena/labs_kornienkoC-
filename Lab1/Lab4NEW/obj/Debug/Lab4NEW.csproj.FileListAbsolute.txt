@@ -1,0 +1,10 @@
+C:\Users\Alenina\source\repos\Lab1\Lab4NEW\bin\Debug\Lab4NEW.exe.config
+C:\Users\Alenina\source\repos\Lab1\Lab4NEW\bin\Debug\Lab4NEW.exe
+C:\Users\Alenina\source\repos\Lab1\Lab4NEW\bin\Debug\Lab4NEW.pdb
+C:\Users\Alenina\source\repos\Lab1\Lab4NEW\obj\Debug\Lab4NEW.csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\Lab1\Lab4NEW\obj\Debug\Lab4NEW.Form1.resources
+C:\Users\Alenina\source\repos\Lab1\Lab4NEW\obj\Debug\Lab4NEW.Properties.Resources.resources
+C:\Users\Alenina\source\repos\Lab1\Lab4NEW\obj\Debug\Lab4NEW.csproj.GenerateResource.cache
+C:\Users\Alenina\source\repos\Lab1\Lab4NEW\obj\Debug\Lab4NEW.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\Lab1\Lab4NEW\obj\Debug\Lab4NEW.exe
+C:\Users\Alenina\source\repos\Lab1\Lab4NEW\obj\Debug\Lab4NEW.pdb

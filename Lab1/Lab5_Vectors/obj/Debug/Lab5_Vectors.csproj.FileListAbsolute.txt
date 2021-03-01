@@ -1,0 +1,10 @@
+C:\Users\Alenina\source\repos\Lab1\Lab5_Vectors\bin\Debug\Lab5_Vectors.exe.config
+C:\Users\Alenina\source\repos\Lab1\Lab5_Vectors\bin\Debug\Lab5_Vectors.exe
+C:\Users\Alenina\source\repos\Lab1\Lab5_Vectors\bin\Debug\Lab5_Vectors.pdb
+C:\Users\Alenina\source\repos\Lab1\Lab5_Vectors\obj\Debug\Lab5_Vectors.csprojAssemblyReference.cache
+C:\Users\Alenina\source\repos\Lab1\Lab5_Vectors\obj\Debug\Lab5_Vectors.Properties.Resources.resources
+C:\Users\Alenina\source\repos\Lab1\Lab5_Vectors\obj\Debug\Lab5_Vectors.csproj.GenerateResource.cache
+C:\Users\Alenina\source\repos\Lab1\Lab5_Vectors\obj\Debug\Lab5_Vectors.csproj.CoreCompileInputs.cache
+C:\Users\Alenina\source\repos\Lab1\Lab5_Vectors\obj\Debug\Lab5_Vectors.exe
+C:\Users\Alenina\source\repos\Lab1\Lab5_Vectors\obj\Debug\Lab5_Vectors.pdb
+C:\Users\Alenina\source\repos\Lab1\Lab5_Vectors\obj\Debug\Lab5_Vectors.GetTwoPointsInRightDirection.resources
